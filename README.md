@@ -1,2 +1,2 @@
-# fastapi-base-project
-base project
+# base project
+A project structure for quick startup.
